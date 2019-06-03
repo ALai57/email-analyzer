@@ -1,0 +1,7 @@
+This is some text.
+Used for practicing reading in files.
+1&*#$^@%839400.
+
+HH.
+
+END
